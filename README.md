@@ -1,6 +1,5 @@
 # PeopleIQ — AI-Powered HR Analytics Dashboard
 
-![PeopleIQ Banner](docs/banner.png)
 
 > Turning workforce data into actionable insights.
 
@@ -108,3 +107,4 @@ Regina, Saskatchewan
 ## License
 
 This project is for portfolio and demonstration purposes.
+
