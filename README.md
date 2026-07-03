@@ -103,6 +103,19 @@ Regina, Saskatchewan
 [LinkedIn](https://www.linkedin.com/in/myra-o-4054b6398) | [GitHub](https://github.com/mowoo-987)
 
 ---
+## Tools & Technologies
+ 
+| Tool | Purpose |
+|------|---------|
+| React | Frontend dashboard and UI components |
+| Python & Flask | Backend API and data processing |
+| scikit-learn | AI/ML model — Random Forest Classifier |
+| Pandas & NumPy | Data manipulation and analysis |
+| Google Colab | Model training and data analysis notebook |
+| GitHub | Version control and project hosting |
+| Claude AI (Anthropic) | Development assistance and code generation |
+ 
+---
 
 ## License
 
