@@ -1,0 +1,301 @@
+EmployeeID,Age,Gender,Education,Department,JobTitle,Tenure_Years,Salary,JobSatisfaction,PerformanceRating,Absences,OverTime,EmploymentStatus,Left
+EMP0001,39,Male,High School,Sales,Sales Representative,7,69256,3,2,17,0,Resigned,1
+EMP0002,36,Female,High School,Sales,Sales Representative,0,113563,4,9,13,0,Resigned,1
+EMP0003,49,Male,Bachelor,HR,HR Analyst,10,76421,3,4,10,0,Active,0
+EMP0004,38,Non-Binary,Bachelor,Marketing,Digital Marketer,1,100217,9,2,12,0,Active,0
+EMP0005,34,Female,Bachelor,Marketing,Digital Marketer,2,46006,4,5,2,0,Resigned,1
+EMP0006,45,Male,Diploma,IT,Data Analyst,5,88520,6,4,8,0,Resigned,1
+EMP0007,46,Female,Master,HR,Recruiter,8,113000,4,6,1,0,Resigned,1
+EMP0008,35,Male,Bachelor,Operations,Operations Analyst,10,67869,8,7,20,1,Active,0
+EMP0009,57,Male,Diploma,HR,HR Coordinator,8,116622,7,10,12,1,Active,0
+EMP0010,25,Non-Binary,Master,IT,IT Support Specialist,3,60033,3,7,19,0,Active,0
+EMP0011,22,Female,High School,Operations,Operations Manager,3,110381,5,6,3,1,Resigned,1
+EMP0012,33,Female,Diploma,Operations,Operations Manager,3,79117,9,10,6,0,Active,0
+EMP0013,53,Non-Binary,High School,Engineering,QA Engineer,0,54662,6,5,7,0,Active,0
+EMP0014,53,Non-Binary,Master,Sales,Sales Coordinator,2,109822,3,3,15,0,Active,0
+EMP0015,34,Male,Diploma,Finance,Budget Analyst,9,92296,6,8,16,1,Active,0
+EMP0016,43,Male,High School,Finance,Financial Analyst,0,117110,9,4,18,0,Active,0
+EMP0017,26,Male,Diploma,Engineering,Systems Analyst,1,83309,2,9,7,1,Resigned,1
+EMP0018,52,Female,High School,IT,IT Support Specialist,13,64957,2,2,13,1,Resigned,1
+EMP0019,47,Male,Bachelor,Sales,Sales Representative,10,54322,4,4,6,1,Active,0
+EMP0020,26,Male,Diploma,IT,IT Support Specialist,14,112132,2,1,20,0,Resigned,1
+EMP0021,52,Female,Master,Customer Service,Support Analyst,6,92565,1,3,12,0,Resigned,1
+EMP0022,57,Non-Binary,High School,Operations,Process Coordinator,15,60289,4,5,6,0,Resigned,1
+EMP0023,25,Male,High School,Marketing,Marketing Coordinator,15,105909,9,3,1,0,Active,0
+EMP0024,37,Non-Binary,High School,Sales,Sales Coordinator,12,55713,10,4,18,0,Active,0
+EMP0025,59,Non-Binary,Bachelor,Customer Service,Team Lead,10,74179,4,6,7,1,Active,0
+EMP0026,26,Non-Binary,Diploma,IT,Business Analyst,0,100068,10,10,3,0,Active,0
+EMP0027,44,Non-Binary,Bachelor,Operations,Operations Analyst,2,72018,6,5,5,1,Resigned,1
+EMP0028,28,Non-Binary,Diploma,Engineering,QA Engineer,4,74664,2,2,17,0,Active,0
+EMP0029,62,Non-Binary,Master,Marketing,Marketing Coordinator,8,106244,8,5,1,0,Active,0
+EMP0030,22,Male,High School,Operations,Operations Analyst,10,57146,5,3,14,1,Resigned,1
+EMP0031,24,Male,Bachelor,HR,HR Analyst,11,116350,9,3,13,0,Active,0
+EMP0032,44,Non-Binary,Diploma,Marketing,Marketing Coordinator,6,72706,2,6,17,1,Resigned,1
+EMP0033,33,Non-Binary,High School,Finance,Financial Analyst,13,43248,3,6,13,0,Active,0
+EMP0034,52,Male,High School,Customer Service,Customer Service Rep,7,66158,8,6,9,0,Active,0
+EMP0035,43,Non-Binary,Bachelor,Finance,Accountant,8,49099,5,6,20,1,Resigned,1
+EMP0036,38,Female,Master,Engineering,Software Developer,5,116099,5,1,3,1,Active,0
+EMP0037,58,Male,Bachelor,Sales,Account Manager,6,73386,1,7,0,0,Active,0
+EMP0038,29,Non-Binary,Diploma,Marketing,Digital Marketer,9,106469,5,7,10,1,Resigned,1
+EMP0039,46,Male,Master,Finance,Accountant,5,114593,5,7,17,0,Active,0
+EMP0040,50,Female,Bachelor,Marketing,Content Analyst,14,68010,9,8,5,0,Active,0
+EMP0041,41,Non-Binary,High School,Sales,Sales Representative,7,66100,3,1,1,0,Resigned,1
+EMP0042,62,Non-Binary,High School,IT,Business Analyst,6,90328,8,7,7,0,Active,0
+EMP0043,36,Male,Master,Sales,Account Manager,5,107889,8,1,17,0,Resigned,1
+EMP0044,55,Male,Master,HR,Recruiter,10,98008,10,9,13,1,Active,0
+EMP0045,37,Male,Bachelor,IT,Business Analyst,8,108327,8,4,8,1,Active,0
+EMP0046,43,Male,Diploma,Finance,Accountant,10,110798,2,3,4,0,Active,0
+EMP0047,48,Female,Master,Sales,Account Manager,10,111121,8,7,1,0,Active,0
+EMP0048,52,Female,Master,Engineering,DevOps Engineer,0,86105,5,7,13,0,Resigned,1
+EMP0049,46,Non-Binary,High School,IT,IT Support Specialist,10,92994,3,8,4,0,Resigned,1
+EMP0050,49,Female,Bachelor,Sales,Sales Coordinator,4,100515,3,1,8,1,Active,0
+EMP0051,39,Female,Diploma,Marketing,Content Analyst,13,73065,2,8,0,0,Resigned,1
+EMP0052,24,Female,High School,Sales,Sales Coordinator,0,72411,4,1,19,0,Active,0
+EMP0053,38,Female,High School,Finance,Accountant,11,61992,10,10,3,0,Active,0
+EMP0054,58,Female,High School,Engineering,QA Engineer,12,91990,4,2,18,0,Active,0
+EMP0055,56,Female,Master,Engineering,QA Engineer,13,88571,2,9,20,1,Active,0
+EMP0056,45,Non-Binary,Master,Sales,Account Manager,14,60052,7,3,16,1,Resigned,1
+EMP0057,59,Female,Master,IT,Business Analyst,8,82245,4,2,8,1,Active,0
+EMP0058,53,Female,Bachelor,Marketing,Marketing Coordinator,10,63834,8,4,11,1,Active,0
+EMP0059,22,Non-Binary,Master,Operations,Operations Manager,6,51221,4,7,15,0,Resigned,1
+EMP0060,27,Non-Binary,Bachelor,IT,IT Support Specialist,9,69045,7,4,9,1,Resigned,1
+EMP0061,57,Male,High School,Customer Service,Team Lead,10,86112,8,5,9,1,Active,0
+EMP0062,29,Male,Bachelor,Finance,Accountant,5,65105,4,8,8,1,Resigned,1
+EMP0063,33,Male,Bachelor,Finance,Accountant,9,41854,9,3,8,0,Active,0
+EMP0064,53,Female,Bachelor,HR,HR Analyst,3,41607,10,5,15,1,Active,0
+EMP0065,38,Non-Binary,High School,HR,HR Coordinator,15,54953,2,7,15,0,Resigned,1
+EMP0066,58,Non-Binary,Diploma,HR,HR Coordinator,9,51164,4,2,17,1,Resigned,1
+EMP0067,50,Non-Binary,High School,Customer Service,Support Analyst,9,117139,7,5,18,0,Resigned,1
+EMP0068,35,Female,Master,Finance,Budget Analyst,8,50641,3,4,5,0,Active,0
+EMP0069,24,Female,Diploma,IT,Business Analyst,7,77762,5,8,2,0,Active,0
+EMP0070,56,Female,Bachelor,Customer Service,Customer Service Rep,7,59528,5,3,2,0,Active,0
+EMP0071,51,Non-Binary,High School,IT,IT Support Specialist,9,92757,5,9,17,1,Resigned,1
+EMP0072,42,Non-Binary,Bachelor,Customer Service,Team Lead,8,43390,2,4,18,0,Resigned,1
+EMP0073,52,Female,Bachelor,Engineering,Systems Analyst,14,76458,3,10,13,1,Resigned,1
+EMP0074,42,Female,High School,Customer Service,Support Analyst,3,61079,6,7,15,1,Resigned,1
+EMP0075,42,Non-Binary,Master,IT,IT Support Specialist,8,82372,2,7,16,0,Resigned,1
+EMP0076,34,Female,Master,Customer Service,Customer Service Rep,11,105338,8,1,6,1,Resigned,1
+EMP0077,23,Male,Diploma,IT,IT Support Specialist,7,60758,5,9,0,1,Active,0
+EMP0078,29,Female,Master,Sales,Account Manager,4,105323,5,9,8,1,Active,0
+EMP0079,57,Female,Master,Finance,Accountant,4,90277,4,10,16,0,Resigned,1
+EMP0080,39,Male,Master,Marketing,Digital Marketer,0,77072,5,10,18,1,Active,0
+EMP0081,43,Female,High School,IT,Business Analyst,12,99682,6,4,7,1,Active,0
+EMP0082,52,Non-Binary,Bachelor,Marketing,Digital Marketer,12,90604,3,8,1,0,Resigned,1
+EMP0083,28,Female,Bachelor,Sales,Account Manager,14,42011,3,7,20,0,Active,0
+EMP0084,27,Male,High School,Customer Service,Team Lead,10,109942,7,6,20,1,Resigned,1
+EMP0085,40,Non-Binary,Bachelor,Finance,Budget Analyst,7,51846,7,2,20,0,Resigned,1
+EMP0086,42,Female,Diploma,Engineering,Software Developer,1,78452,6,6,13,0,Active,0
+EMP0087,27,Female,Bachelor,HR,HR Coordinator,12,71566,8,10,4,0,Active,0
+EMP0088,22,Female,Bachelor,IT,Business Analyst,14,77700,9,3,2,1,Active,0
+EMP0089,38,Non-Binary,Bachelor,Customer Service,Team Lead,14,79599,4,7,15,0,Active,0
+EMP0090,40,Non-Binary,Master,Operations,Operations Manager,0,91879,5,1,18,0,Resigned,1
+EMP0091,60,Non-Binary,High School,Operations,Operations Analyst,11,68705,4,10,8,0,Active,0
+EMP0092,50,Female,Diploma,Engineering,QA Engineer,1,115965,6,3,2,1,Active,0
+EMP0093,56,Female,Bachelor,Finance,Financial Analyst,11,109579,9,5,5,1,Active,0
+EMP0094,51,Female,High School,Marketing,Marketing Coordinator,2,58449,4,7,17,1,Active,0
+EMP0095,29,Male,Diploma,Operations,Operations Manager,14,88311,5,10,12,1,Active,0
+EMP0096,61,Female,Master,IT,IT Support Specialist,10,119964,4,2,20,1,Resigned,1
+EMP0097,24,Non-Binary,Diploma,Sales,Sales Representative,1,79893,8,2,3,0,Active,0
+EMP0098,45,Non-Binary,Master,Customer Service,Support Analyst,13,116983,3,7,20,0,Resigned,1
+EMP0099,45,Non-Binary,Bachelor,Operations,Operations Analyst,6,98115,8,4,11,0,Active,0
+EMP0100,47,Non-Binary,High School,Marketing,Marketing Coordinator,8,64878,2,8,2,0,Resigned,1
+EMP0101,37,Male,Bachelor,Engineering,QA Engineer,4,114000,4,2,17,0,Resigned,1
+EMP0102,22,Male,Diploma,HR,HR Analyst,8,58964,3,9,8,0,Active,0
+EMP0103,37,Non-Binary,High School,Engineering,QA Engineer,10,42068,3,5,1,0,Resigned,1
+EMP0104,50,Non-Binary,High School,Sales,Account Manager,11,107271,10,2,14,0,Active,0
+EMP0105,23,Non-Binary,Master,Operations,Process Coordinator,1,102781,7,7,3,1,Active,0
+EMP0106,42,Non-Binary,Bachelor,Sales,Sales Representative,4,48609,3,5,19,1,Active,0
+EMP0107,60,Male,Master,IT,Data Analyst,13,52999,2,9,6,1,Resigned,1
+EMP0108,47,Female,Diploma,Marketing,Content Analyst,13,52463,6,7,10,1,Active,0
+EMP0109,27,Non-Binary,Bachelor,IT,IT Support Specialist,2,52219,7,2,11,0,Resigned,1
+EMP0110,44,Male,Diploma,Sales,Account Manager,13,46743,5,10,9,1,Active,0
+EMP0111,52,Female,Diploma,HR,HR Analyst,7,54184,6,9,11,0,Active,0
+EMP0112,61,Female,Bachelor,Customer Service,Team Lead,0,119822,5,1,5,1,Resigned,1
+EMP0113,33,Non-Binary,Diploma,Marketing,Marketing Coordinator,4,114228,7,2,4,0,Active,0
+EMP0114,51,Male,Diploma,Customer Service,Support Analyst,10,60631,6,5,10,0,Resigned,1
+EMP0115,39,Female,Diploma,Engineering,Software Developer,14,95576,8,10,14,1,Active,0
+EMP0116,49,Male,Diploma,Sales,Account Manager,3,77125,10,8,16,1,Active,0
+EMP0117,25,Male,High School,Customer Service,Team Lead,0,66794,5,4,4,1,Active,0
+EMP0118,49,Male,Master,IT,Data Analyst,5,56932,7,9,7,1,Active,0
+EMP0119,23,Non-Binary,Master,Engineering,DevOps Engineer,14,50205,6,10,13,1,Active,0
+EMP0120,47,Male,Diploma,Operations,Operations Analyst,0,82568,3,10,14,1,Active,0
+EMP0121,47,Male,High School,Customer Service,Team Lead,2,91873,5,6,7,1,Resigned,1
+EMP0122,44,Male,High School,Finance,Accountant,4,70968,2,3,8,0,Active,0
+EMP0123,53,Non-Binary,Bachelor,HR,HR Analyst,14,113889,10,8,18,1,Active,0
+EMP0124,26,Male,Bachelor,HR,Recruiter,15,97961,5,5,18,0,Active,0
+EMP0125,24,Non-Binary,Master,IT,Business Analyst,1,88331,5,2,20,0,Resigned,1
+EMP0126,57,Non-Binary,Diploma,IT,Data Analyst,1,98947,10,4,10,1,Active,0
+EMP0127,28,Non-Binary,Master,Engineering,DevOps Engineer,10,51053,9,3,1,0,Active,0
+EMP0128,55,Non-Binary,High School,IT,Data Analyst,5,87696,6,5,12,1,Resigned,1
+EMP0129,43,Female,High School,Marketing,Marketing Coordinator,3,113133,7,5,8,0,Active,0
+EMP0130,41,Non-Binary,Bachelor,HR,Recruiter,12,56901,10,2,9,1,Active,0
+EMP0131,55,Female,Diploma,HR,HR Analyst,2,95496,9,6,0,1,Active,0
+EMP0132,53,Male,High School,Finance,Accountant,6,69693,3,3,2,1,Resigned,1
+EMP0133,30,Male,Master,Marketing,Digital Marketer,12,60218,3,3,19,0,Resigned,1
+EMP0134,37,Female,Diploma,Marketing,Digital Marketer,14,77346,8,4,17,0,Active,0
+EMP0135,58,Male,Diploma,Marketing,Digital Marketer,14,100513,5,7,16,1,Resigned,1
+EMP0136,52,Male,Bachelor,Operations,Operations Analyst,11,112684,2,9,3,1,Active,0
+EMP0137,31,Female,Bachelor,IT,Data Analyst,13,52021,4,8,11,0,Resigned,1
+EMP0138,27,Male,High School,Finance,Accountant,11,69430,1,6,3,1,Resigned,1
+EMP0139,30,Female,Diploma,Operations,Process Coordinator,15,98799,10,1,2,0,Active,0
+EMP0140,60,Female,Master,HR,HR Analyst,13,54573,5,4,9,0,Active,0
+EMP0141,53,Female,High School,Sales,Sales Representative,0,107551,10,4,4,1,Active,0
+EMP0142,58,Non-Binary,High School,Marketing,Marketing Coordinator,13,64551,2,9,11,0,Resigned,1
+EMP0143,24,Non-Binary,High School,Customer Service,Support Analyst,12,88929,5,1,11,0,Active,0
+EMP0144,24,Male,High School,Marketing,Marketing Coordinator,11,111567,6,3,14,1,Resigned,1
+EMP0145,40,Non-Binary,Master,IT,IT Support Specialist,6,45741,4,1,10,1,Resigned,1
+EMP0146,34,Female,Master,Operations,Operations Analyst,9,86789,1,6,8,0,Resigned,1
+EMP0147,43,Male,Master,IT,Business Analyst,5,105038,8,6,16,1,Active,0
+EMP0148,60,Female,Bachelor,Sales,Account Manager,5,111496,5,6,3,0,Active,0
+EMP0149,60,Non-Binary,Bachelor,Operations,Process Coordinator,13,61842,8,6,14,0,Active,0
+EMP0150,62,Male,Diploma,Customer Service,Support Analyst,1,49835,7,6,16,0,Active,0
+EMP0151,30,Non-Binary,Master,IT,IT Support Specialist,2,70932,6,6,12,0,Resigned,1
+EMP0152,50,Female,Diploma,Marketing,Content Analyst,2,115225,3,9,11,1,Active,0
+EMP0153,33,Female,Master,Sales,Sales Representative,15,107861,7,9,3,1,Active,0
+EMP0154,40,Non-Binary,Master,Finance,Budget Analyst,15,66237,2,3,2,1,Active,0
+EMP0155,42,Male,Diploma,Sales,Sales Coordinator,11,48511,9,9,9,1,Active,0
+EMP0156,36,Non-Binary,Bachelor,Marketing,Digital Marketer,3,66342,3,4,15,0,Active,0
+EMP0157,30,Non-Binary,High School,IT,Data Analyst,2,48617,5,7,15,1,Resigned,1
+EMP0158,26,Male,Master,HR,Recruiter,14,101057,9,6,4,0,Active,0
+EMP0159,55,Non-Binary,Bachelor,Engineering,Software Developer,4,79862,3,3,10,0,Active,0
+EMP0160,34,Non-Binary,Diploma,Sales,Account Manager,8,56406,5,10,17,0,Active,0
+EMP0161,61,Non-Binary,Bachelor,HR,HR Coordinator,10,113874,1,1,2,0,Resigned,1
+EMP0162,48,Female,Diploma,Finance,Budget Analyst,0,105278,9,5,20,1,Active,0
+EMP0163,51,Female,Diploma,Customer Service,Support Analyst,2,47852,3,8,13,1,Resigned,1
+EMP0164,42,Female,High School,Marketing,Digital Marketer,11,92260,3,6,16,0,Active,0
+EMP0165,37,Male,Bachelor,Operations,Process Coordinator,4,52689,1,5,12,1,Active,0
+EMP0166,32,Male,High School,Marketing,Marketing Coordinator,15,107466,8,8,9,1,Active,0
+EMP0167,51,Female,Master,Customer Service,Team Lead,7,68199,10,6,1,0,Active,0
+EMP0168,56,Female,High School,IT,Business Analyst,0,54089,7,3,8,1,Resigned,1
+EMP0169,58,Non-Binary,Master,Customer Service,Customer Service Rep,6,87516,9,5,2,1,Active,0
+EMP0170,61,Female,Diploma,Operations,Operations Manager,3,56864,2,7,11,1,Resigned,1
+EMP0171,54,Female,Master,Finance,Budget Analyst,12,105546,1,1,1,0,Resigned,1
+EMP0172,54,Non-Binary,Bachelor,HR,HR Analyst,4,82987,10,6,5,1,Active,0
+EMP0173,54,Female,High School,Marketing,Digital Marketer,15,113783,5,8,0,1,Active,0
+EMP0174,41,Non-Binary,Master,Customer Service,Team Lead,0,118238,8,5,20,0,Resigned,1
+EMP0175,62,Female,Bachelor,HR,HR Analyst,12,59369,4,1,18,0,Active,0
+EMP0176,48,Non-Binary,Diploma,Customer Service,Customer Service Rep,6,93788,9,10,15,0,Active,0
+EMP0177,42,Non-Binary,Bachelor,Finance,Budget Analyst,15,108875,7,6,5,1,Active,0
+EMP0178,38,Female,Bachelor,Marketing,Digital Marketer,15,65200,4,5,17,1,Active,0
+EMP0179,53,Male,Master,Finance,Budget Analyst,10,102888,6,9,8,1,Active,0
+EMP0180,31,Non-Binary,Master,Customer Service,Support Analyst,9,45513,5,2,11,1,Resigned,1
+EMP0181,56,Non-Binary,Diploma,Finance,Financial Analyst,8,113664,5,3,3,0,Active,0
+EMP0182,28,Non-Binary,Diploma,Finance,Financial Analyst,13,83292,8,2,4,0,Active,0
+EMP0183,52,Male,Diploma,Customer Service,Team Lead,15,66143,5,6,9,0,Resigned,1
+EMP0184,48,Male,High School,Engineering,Systems Analyst,5,44763,7,8,5,1,Active,0
+EMP0185,60,Male,Master,Operations,Operations Manager,3,83914,5,8,20,1,Resigned,1
+EMP0186,29,Non-Binary,Bachelor,Operations,Operations Analyst,10,61298,8,5,5,0,Active,0
+EMP0187,34,Female,High School,Operations,Operations Manager,5,93148,7,9,10,0,Active,0
+EMP0188,52,Female,Bachelor,HR,HR Coordinator,10,72512,1,5,12,0,Resigned,1
+EMP0189,58,Female,Bachelor,Operations,Operations Manager,0,74282,6,4,1,0,Active,0
+EMP0190,54,Male,Master,HR,Recruiter,9,55389,5,6,19,0,Active,0
+EMP0191,60,Male,High School,HR,Recruiter,11,94505,9,8,17,0,Active,0
+EMP0192,45,Male,Diploma,IT,Data Analyst,2,113946,2,1,17,0,Resigned,1
+EMP0193,50,Male,Master,Marketing,Digital Marketer,3,66922,10,8,2,1,Active,0
+EMP0194,48,Female,Bachelor,HR,HR Analyst,14,113912,1,9,14,1,Resigned,1
+EMP0195,59,Male,Master,Engineering,Systems Analyst,2,45936,7,6,2,0,Active,0
+EMP0196,48,Female,Master,Engineering,QA Engineer,5,57750,7,6,12,1,Active,0
+EMP0197,56,Non-Binary,Diploma,Sales,Sales Coordinator,4,85582,2,3,17,1,Resigned,1
+EMP0198,41,Male,Master,Engineering,Software Developer,14,111361,7,9,12,0,Active,0
+EMP0199,39,Male,High School,Marketing,Marketing Coordinator,6,54790,1,7,19,0,Active,0
+EMP0200,60,Male,Diploma,Engineering,DevOps Engineer,1,72077,1,7,14,0,Resigned,1
+EMP0201,58,Male,Diploma,Operations,Operations Analyst,10,115690,10,6,7,1,Active,0
+EMP0202,39,Male,Bachelor,Customer Service,Support Analyst,1,112970,10,3,20,1,Resigned,1
+EMP0203,42,Female,Diploma,Customer Service,Team Lead,13,93511,3,5,12,0,Resigned,1
+EMP0204,31,Female,Diploma,Finance,Accountant,14,47552,9,7,13,0,Active,0
+EMP0205,43,Female,High School,Operations,Operations Analyst,2,98954,6,2,17,0,Active,0
+EMP0206,59,Male,High School,Sales,Sales Representative,6,102835,4,6,9,0,Active,0
+EMP0207,60,Non-Binary,Bachelor,IT,IT Support Specialist,6,91987,4,9,10,1,Active,0
+EMP0208,45,Female,High School,Operations,Process Coordinator,15,101080,2,8,10,0,Active,0
+EMP0209,31,Female,Diploma,Finance,Budget Analyst,0,74180,9,10,18,1,Active,0
+EMP0210,36,Female,Master,Finance,Accountant,12,114683,4,8,17,1,Active,0
+EMP0211,44,Non-Binary,High School,IT,IT Support Specialist,5,58344,9,8,5,0,Active,0
+EMP0212,25,Non-Binary,Master,Sales,Sales Coordinator,0,94053,3,4,2,0,Active,0
+EMP0213,61,Non-Binary,Bachelor,Marketing,Marketing Coordinator,15,103944,1,1,17,1,Active,0
+EMP0214,54,Non-Binary,Bachelor,Operations,Operations Analyst,13,63496,2,2,16,0,Active,0
+EMP0215,47,Non-Binary,Diploma,Marketing,Content Analyst,2,88896,7,8,18,0,Active,0
+EMP0216,27,Male,High School,Operations,Operations Manager,1,52255,7,7,12,1,Active,0
+EMP0217,53,Male,Diploma,HR,HR Coordinator,13,83420,10,2,16,0,Active,0
+EMP0218,24,Female,High School,IT,Business Analyst,2,76749,9,10,1,0,Active,0
+EMP0219,31,Female,Bachelor,Finance,Budget Analyst,12,50084,5,3,18,0,Resigned,1
+EMP0220,30,Male,Bachelor,Customer Service,Team Lead,2,105639,6,1,3,1,Active,0
+EMP0221,23,Female,Diploma,Customer Service,Support Analyst,8,99054,8,4,11,1,Active,0
+EMP0222,61,Non-Binary,Diploma,Customer Service,Customer Service Rep,9,72302,2,2,8,0,Active,0
+EMP0223,45,Male,Diploma,Customer Service,Support Analyst,3,51995,1,5,14,1,Resigned,1
+EMP0224,49,Male,High School,Sales,Sales Representative,14,113005,9,9,13,0,Active,0
+EMP0225,27,Non-Binary,Diploma,Marketing,Digital Marketer,10,90493,1,5,13,1,Resigned,1
+EMP0226,46,Male,Master,HR,HR Analyst,5,58198,5,5,8,1,Active,0
+EMP0227,41,Male,Master,Operations,Process Coordinator,15,50082,6,5,7,1,Resigned,1
+EMP0228,41,Female,Bachelor,Sales,Sales Representative,0,91864,6,10,12,1,Active,0
+EMP0229,60,Female,Diploma,Customer Service,Team Lead,4,79378,6,10,6,1,Active,0
+EMP0230,40,Female,Bachelor,Customer Service,Support Analyst,15,115481,4,6,12,1,Resigned,1
+EMP0231,34,Non-Binary,High School,Sales,Sales Coordinator,5,112102,1,8,6,1,Resigned,1
+EMP0232,53,Male,Master,Customer Service,Team Lead,4,79692,4,5,4,1,Resigned,1
+EMP0233,47,Male,Bachelor,IT,Data Analyst,13,111256,1,6,17,0,Active,0
+EMP0234,61,Male,High School,HR,HR Analyst,1,113822,7,6,13,0,Active,0
+EMP0235,54,Female,High School,Operations,Operations Analyst,7,98429,6,7,14,0,Active,0
+EMP0236,40,Male,Master,IT,IT Support Specialist,13,51253,2,3,11,1,Active,0
+EMP0237,28,Male,High School,Marketing,Content Analyst,14,99303,6,2,9,0,Resigned,1
+EMP0238,28,Female,Master,Marketing,Digital Marketer,5,71970,9,3,17,0,Active,0
+EMP0239,62,Female,Master,Finance,Accountant,5,64430,7,7,0,0,Active,0
+EMP0240,35,Male,Master,Customer Service,Customer Service Rep,6,76483,2,10,3,0,Active,0
+EMP0241,53,Female,Bachelor,Sales,Account Manager,10,118246,7,10,12,0,Active,0
+EMP0242,33,Male,Diploma,IT,Data Analyst,9,117354,2,3,10,0,Active,0
+EMP0243,31,Female,Diploma,Marketing,Digital Marketer,12,94819,10,3,18,1,Active,0
+EMP0244,56,Female,High School,IT,Data Analyst,5,112733,3,8,9,0,Active,0
+EMP0245,53,Female,Master,Marketing,Marketing Coordinator,4,65575,7,9,16,1,Active,0
+EMP0246,50,Female,High School,Customer Service,Team Lead,15,61922,2,10,0,0,Active,0
+EMP0247,56,Non-Binary,High School,Operations,Operations Analyst,9,62047,8,10,15,0,Active,0
+EMP0248,45,Non-Binary,Diploma,Operations,Operations Manager,1,97850,9,4,13,0,Active,0
+EMP0249,50,Non-Binary,Bachelor,Operations,Operations Analyst,8,85688,2,8,3,0,Active,0
+EMP0250,61,Non-Binary,Diploma,Customer Service,Customer Service Rep,4,67082,4,1,18,1,Resigned,1
+EMP0251,40,Female,High School,Marketing,Digital Marketer,9,115069,5,9,3,0,Active,0
+EMP0252,30,Non-Binary,Bachelor,Operations,Operations Manager,4,72725,3,6,7,1,Resigned,1
+EMP0253,50,Female,Master,Customer Service,Support Analyst,2,52202,7,9,8,1,Active,0
+EMP0254,22,Female,Diploma,Marketing,Digital Marketer,2,100089,6,2,17,1,Active,0
+EMP0255,42,Female,High School,IT,Business Analyst,9,84270,9,10,4,1,Active,0
+EMP0256,62,Female,Diploma,Engineering,Software Developer,14,42134,2,3,14,1,Active,0
+EMP0257,41,Non-Binary,Diploma,HR,HR Analyst,5,75916,2,6,8,0,Active,0
+EMP0258,62,Male,Diploma,Engineering,DevOps Engineer,9,70689,7,2,3,0,Active,0
+EMP0259,50,Male,Master,Finance,Budget Analyst,0,41056,6,2,13,0,Resigned,1
+EMP0260,28,Male,Diploma,Sales,Sales Coordinator,3,81071,6,5,4,1,Active,0
+EMP0261,58,Male,Master,Sales,Sales Coordinator,0,119995,3,8,11,0,Resigned,1
+EMP0262,27,Female,Diploma,IT,IT Support Specialist,3,58351,2,10,12,1,Resigned,1
+EMP0263,27,Non-Binary,High School,Finance,Accountant,7,112534,10,10,19,1,Active,0
+EMP0264,55,Male,Master,Operations,Operations Analyst,6,91347,5,1,7,1,Active,0
+EMP0265,22,Non-Binary,Diploma,Sales,Sales Coordinator,11,81480,3,7,18,1,Active,0
+EMP0266,23,Female,Bachelor,IT,IT Support Specialist,2,41807,5,4,1,0,Resigned,1
+EMP0267,47,Male,Bachelor,Customer Service,Support Analyst,2,110328,9,10,4,1,Active,0
+EMP0268,35,Female,Diploma,Sales,Sales Coordinator,4,110305,6,7,18,0,Active,0
+EMP0269,27,Female,Diploma,Engineering,Systems Analyst,13,55202,8,10,19,0,Active,0
+EMP0270,30,Male,Bachelor,Sales,Sales Representative,0,61473,8,6,16,1,Active,0
+EMP0271,39,Female,High School,HR,HR Analyst,3,43847,6,7,8,0,Active,0
+EMP0272,54,Male,Bachelor,IT,Business Analyst,11,47266,8,10,5,1,Active,0
+EMP0273,29,Female,Master,Sales,Sales Coordinator,7,106692,1,1,0,0,Active,0
+EMP0274,24,Male,Bachelor,HR,HR Coordinator,13,69427,6,4,13,1,Active,0
+EMP0275,25,Female,Bachelor,Sales,Sales Coordinator,5,69253,9,1,12,0,Resigned,1
+EMP0276,57,Male,Master,Marketing,Marketing Coordinator,14,41044,6,4,9,1,Resigned,1
+EMP0277,53,Non-Binary,Bachelor,Marketing,Digital Marketer,6,111638,4,3,0,1,Active,0
+EMP0278,22,Male,Diploma,Engineering,QA Engineer,12,80306,2,4,16,0,Resigned,1
+EMP0279,24,Non-Binary,High School,Operations,Operations Analyst,7,108125,7,6,14,0,Active,0
+EMP0280,47,Male,Bachelor,HR,HR Analyst,2,117580,10,1,13,0,Active,0
+EMP0281,47,Male,Diploma,Operations,Process Coordinator,10,81688,8,5,7,0,Active,0
+EMP0282,28,Non-Binary,Bachelor,Sales,Sales Representative,5,98925,8,6,13,0,Active,0
+EMP0283,41,Non-Binary,High School,Finance,Accountant,14,74735,2,2,5,1,Resigned,1
+EMP0284,31,Female,Diploma,Finance,Accountant,2,72534,6,7,16,0,Resigned,1
+EMP0285,50,Male,High School,Engineering,DevOps Engineer,7,52415,8,2,4,0,Active,0
+EMP0286,34,Male,High School,Finance,Financial Analyst,12,88790,2,10,18,1,Resigned,1
+EMP0287,50,Non-Binary,Master,Sales,Sales Representative,4,52055,6,2,1,1,Active,0
+EMP0288,23,Female,Diploma,Customer Service,Support Analyst,12,95923,3,6,6,0,Active,0
+EMP0289,40,Female,Master,Engineering,Systems Analyst,15,94000,9,8,1,0,Active,0
+EMP0290,34,Female,Bachelor,HR,Recruiter,7,111258,1,7,11,1,Resigned,1
+EMP0291,39,Female,High School,Marketing,Content Analyst,5,43416,6,10,7,0,Active,0
+EMP0292,44,Non-Binary,High School,IT,Data Analyst,7,60922,2,4,7,1,Resigned,1
+EMP0293,46,Non-Binary,Bachelor,Finance,Budget Analyst,11,62768,3,4,18,1,Resigned,1
+EMP0294,58,Male,High School,Engineering,QA Engineer,4,113807,4,8,17,1,Active,0
+EMP0295,60,Non-Binary,Diploma,Engineering,Systems Analyst,7,42612,9,8,0,1,Active,0
+EMP0296,33,Non-Binary,Bachelor,HR,Recruiter,10,47806,1,3,18,0,Resigned,1
+EMP0297,47,Non-Binary,Master,Sales,Account Manager,3,84113,5,6,4,0,Active,0
+EMP0298,42,Female,Bachelor,IT,Data Analyst,5,113659,10,6,7,0,Active,0
+EMP0299,33,Non-Binary,Bachelor,Operations,Operations Analyst,0,115082,7,10,1,0,Active,0
+EMP0300,58,Female,Diploma,Finance,Budget Analyst,3,105035,3,6,2,0,Active,0
